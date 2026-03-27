@@ -29,6 +29,7 @@ A collection of my personal configuration files for a sleek, Wayland-based deskt
   * `bibata-cursor-theme`
   * `polkit-gnome`
   * `xdg-desktop-portal-hyprland`
+  * `ttf-iosevka-term`
 
 -----
 
